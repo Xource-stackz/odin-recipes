@@ -1,0 +1,6 @@
+--2024-07-27 21:25:43--  https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F10%2F31%2FHomemade-Lasagna-lutzflcat-1x1-1-2000.jpg
+Resolving imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)... 151.101.2.137, 151.101.130.137, 151.101.194.137, ...
+Connecting to imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)|151.101.2.137|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2024-07-27 21:25:44 ERROR 400: Bad Request.
+
